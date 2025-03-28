@@ -6,7 +6,11 @@
   <img src="https://github.com/ShekarArun.png" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #0366d6;">
   <div>
     <h3>Hello! I'm Arun Shekar</h3>
-    <p>Software Engineer passionate about Infrastructure as Code</p>
+    <p>Digital architect crafting invisible infrastructure
+Python & AWS conjurer
+Future AI wizard
+Mapping both codebases & open roads on two wheels
+[AI Generated]</p>
     <div style="margin-top: 10px;">
       <a href="https://github.com/ShekarArun" target="_blank" style="text-decoration: none; margin-right: 15px;">
         <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
